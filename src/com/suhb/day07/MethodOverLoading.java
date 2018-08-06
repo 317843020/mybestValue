@@ -20,6 +20,9 @@ public class MethodOverLoading {
    public static void f(int i,int ii){
         System.out.println("int");
     }
+    public static void f(int ...i){
+        System.out.println("...i");
+    }
 
     public static void ff(char i,char ii){
         System.out.println("ff");

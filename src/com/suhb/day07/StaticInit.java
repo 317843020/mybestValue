@@ -40,21 +40,14 @@ class DD{
 public class StaticInit {
 
     public static void main(String[] args) {
-        new DD();
-        //b3,dd,f12
-        new DD();
-        //b3,dd,f12
-        b.f2(1);
-        //f21
-        d.f3(1);
-        //f31
+      //  DD.b4
     }
 
-    static CC b = new CC();
 
-    // b1,b2,cc,f11,
-    static DD d = new DD();
-    //b3,dd.b4,dd.b5ddf12  (错，先静态字段）
-    //b4,b5,b3dd.b5ddf12
+
+
+
+
+
 
 }
