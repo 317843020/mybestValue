@@ -1,3 +1,3 @@
 # mybestValue
 ###
-every day do my best 
+everyday do my best 
