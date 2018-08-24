@@ -39,6 +39,7 @@ public class listenDemo {
         //4.执行
     }
 
+    //监听容器，加入监听器，发布监听事件迭代调用监听器的处理
     public static class EvenSource{
         Vector<EventListener> vector = new Vector<EventListener>();
 
